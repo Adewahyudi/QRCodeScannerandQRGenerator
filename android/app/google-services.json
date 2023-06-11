@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483313530664",
+    "project_id": "aseetdata",
+    "storage_bucket": "aseetdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483313530664:android:8892ba30a98bef103d421d",
+        "android_client_info": {
+          "package_name": "com.example.aseet_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483313530664-5uomsspa00iop7vq96npsg4fqk8c2m3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jdBoW-TASJ_Yt_ZVVvUxX3G0qlbmIzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483313530664-5uomsspa00iop7vq96npsg4fqk8c2m3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
